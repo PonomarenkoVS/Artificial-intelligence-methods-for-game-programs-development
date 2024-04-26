@@ -1,0 +1,49 @@
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\bin\Debug\ConnectFourApp.exe.config
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\bin\Debug\ConnectFourApp.exe
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\bin\Debug\ConnectFourApp.pdb
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\bin\Debug\GameHelper.dll
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\bin\Debug\GameHelper.pdb
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.AssemblyReference.cache
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.CoreCompileInputs.cache
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\obj\Debug\ConnectFourApp.exe
+C:\Users\UserN\source\repos\CA_XO\ConnectFourApp\obj\Debug\ConnectFourApp.pdb
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.exe.config
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.exe
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.pdb
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\bin\Debug\GameHelper.dll
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\bin\Debug\GameHelper.pdb
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.AssemblyReference.cache
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.CoreCompileInputs.cache
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.exe
+C:\Users\UserN\source\repos\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.pdb
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\bin\Debug\ConnectFourApp.exe.config
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\bin\Debug\ConnectFourApp.exe
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\bin\Debug\ConnectFourApp.pdb
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\bin\Debug\GameHelper.dll
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\bin\Debug\GameHelper.pdb
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.AssemblyReference.cache
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.CoreCompileInputs.cache
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.CopyComplete
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\obj\Debug\ConnectFourApp.exe
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\ConnectFourApp\obj\Debug\ConnectFourApp.pdb
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.exe.config
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.exe
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.pdb
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\bin\Debug\GameHelper.dll
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\bin\Debug\GameHelper.pdb
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.CopyComplete
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.exe
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.pdb
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.exe.config
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.exe
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\bin\Debug\ConnectFourApp.pdb
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\bin\Debug\GameHelper.dll
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\bin\Debug\GameHelper.pdb
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.AssemblyReference.cache
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.CoreCompileInputs.cache
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.csproj.CopyComplete
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.exe
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\ConnectFourApp\obj\Debug\ConnectFourApp.pdb
