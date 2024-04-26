@@ -230,7 +230,7 @@ namespace GameHelper
         /// <summary>
         /// Глубина поиска при подсчете игровых позиций, по умолчанию не ограничена
         /// </summary>
-        public static int MaxDepth = 3; ///int.MaxValue;//глубина поиска не ограничена
+        public static int MaxDepth = int.MaxValue;//глубина поиска не ограничена
 
         /// <summary>
         /// Наименование игры (для вывода в консоль)
