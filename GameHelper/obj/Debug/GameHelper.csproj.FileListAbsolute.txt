@@ -1,0 +1,30 @@
+C:\Users\UserN\source\repos\CA_XO\GameHelper\bin\Debug\GameHelper.dll
+C:\Users\UserN\source\repos\CA_XO\GameHelper\bin\Debug\GameHelper.pdb
+C:\Users\UserN\source\repos\CA_XO\GameHelper\obj\Debug\GameHelper.csproj.CoreCompileInputs.cache
+C:\Users\UserN\source\repos\CA_XO\GameHelper\obj\Debug\GameHelper.dll
+C:\Users\UserN\source\repos\CA_XO\GameHelper\obj\Debug\GameHelper.pdb
+C:\Users\UserN\source\repos\CA_XO\GameHelper\obj\Debug\GameHelper.csproj.AssemblyReference.cache
+C:\Users\UserN\source\repos\GamesDevelopingSolution\GameHelper\bin\Debug\GameHelper.dll
+C:\Users\UserN\source\repos\GamesDevelopingSolution\GameHelper\bin\Debug\GameHelper.pdb
+C:\Users\UserN\source\repos\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.csproj.AssemblyReference.cache
+C:\Users\UserN\source\repos\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.csproj.CoreCompileInputs.cache
+C:\Users\UserN\source\repos\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.dll
+C:\Users\UserN\source\repos\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.pdb
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\GameHelper\bin\Debug\GameHelper.dll
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\GameHelper\bin\Debug\GameHelper.pdb
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\GameHelper\obj\Debug\GameHelper.csproj.AssemblyReference.cache
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\GameHelper\obj\Debug\GameHelper.csproj.CoreCompileInputs.cache
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\GameHelper\obj\Debug\GameHelper.dll
+C:\Users\korovkina\Downloads\GamesDevelopingSolution.rar_pass_123\GameHelper\obj\Debug\GameHelper.pdb
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\GameHelper\bin\Debug\GameHelper.dll
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\GameHelper\bin\Debug\GameHelper.pdb
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.dll
+C:\Users\User\Downloads\Telegram Desktop\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.pdb
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\bin\Debug\GameHelper.dll
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\bin\Debug\GameHelper.pdb
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.csproj.AssemblyReference.cache
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.csproj.CoreCompileInputs.cache
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.dll
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\obj\Debug\GameHelper.pdb

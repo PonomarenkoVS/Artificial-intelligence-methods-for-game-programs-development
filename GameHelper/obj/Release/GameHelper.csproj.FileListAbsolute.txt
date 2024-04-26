@@ -1,0 +1,6 @@
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\bin\Release\GameHelper.dll
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\bin\Release\GameHelper.pdb
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\obj\Release\GameHelper.csproj.AssemblyReference.cache
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\obj\Release\GameHelper.csproj.CoreCompileInputs.cache
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\obj\Release\GameHelper.dll
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\GameHelper\obj\Release\GameHelper.pdb
