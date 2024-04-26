@@ -1,0 +1,10 @@
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\bin\Release\TicTacApp.exe.config
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\bin\Release\TicTacApp.exe
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\bin\Release\TicTacApp.pdb
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\bin\Release\GameHelper.dll
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\bin\Release\GameHelper.pdb
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\obj\Release\TicTacApp.csproj.AssemblyReference.cache
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\obj\Release\TicTacApp.csproj.CoreCompileInputs.cache
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\obj\Release\TicTacApp.csproj.CopyComplete
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\obj\Release\TicTacApp.exe
+C:\Users\sayra\Downloads\Telegram Desktop\GamesDevelopingSolution\GamesDevelopingSolution\GamesDevelopingSolution\TicTacApp\obj\Release\TicTacApp.pdb

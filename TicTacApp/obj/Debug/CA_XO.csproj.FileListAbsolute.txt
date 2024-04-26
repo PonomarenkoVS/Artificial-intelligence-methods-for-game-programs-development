@@ -1,0 +1,10 @@
+C:\Users\UserN\source\repos\CA_XO\CA_XO\bin\Debug\CA_XO.exe.config
+C:\Users\UserN\source\repos\CA_XO\CA_XO\bin\Debug\CA_XO.exe
+C:\Users\UserN\source\repos\CA_XO\CA_XO\bin\Debug\CA_XO.pdb
+C:\Users\UserN\source\repos\CA_XO\CA_XO\obj\Debug\CA_XO.csproj.AssemblyReference.cache
+C:\Users\UserN\source\repos\CA_XO\CA_XO\obj\Debug\CA_XO.csproj.CoreCompileInputs.cache
+C:\Users\UserN\source\repos\CA_XO\CA_XO\obj\Debug\CA_XO.exe
+C:\Users\UserN\source\repos\CA_XO\CA_XO\obj\Debug\CA_XO.pdb
+C:\Users\UserN\source\repos\CA_XO\CA_XO\bin\Debug\GameHelper.dll
+C:\Users\UserN\source\repos\CA_XO\CA_XO\bin\Debug\GameHelper.pdb
+C:\Users\UserN\source\repos\CA_XO\CA_XO\obj\Debug\CA_XO.csproj.CopyComplete
